@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+  
 public class Ai {
 	final static int BOARD_SIZE = 8;
 	static int[][] simplematrix = new int[BOARD_SIZE][BOARD_SIZE];
